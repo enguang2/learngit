@@ -6,4 +6,7 @@ ultimate change
 asdasd
 asdas
 123
+<<<<<<< HEAD
+
 asd
+
